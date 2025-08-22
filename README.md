@@ -134,6 +134,15 @@ Generative AI and LLMs represent transformative advancements in artificial intel
 3.	Google AI Blog.
 4.	Goodfellow et al., Generative Adversarial Nets, 2014.
 
+# Selected LLM: Chat 
+# GPT Comparison: Chat GPT vs Gemini 
+Reasons: Why Chat GPT is best compared to Gemini? 
+1. Structured from an Algorithmic Plan
+2. Balanced Depth & Accessibility
+3. Coverage of All Required Angles
+4. Evidence-Backed Content
+5. Clear Formatting for Direct Use
+
 
 
 # Result
